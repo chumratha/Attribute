@@ -79,7 +79,7 @@ int main(int argc, const char * argv[]) {
     NSSet *americanMakes = [NSSet setWithObjects:@"Chrysler", @"Ford",
                             @"General Motors", nil];
     NSLog(@"%@", americanMakes);
-    
+    NSLog(@"I love Cambodia Hot news");
     return 0;
 }
 
